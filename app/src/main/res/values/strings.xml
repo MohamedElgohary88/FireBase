@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="email">- Email :</string>
+    <string name="password">- Password :</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="useremail">UserEmail</string>
+    <string name="logout">Logout</string>
+    <string name="web_client">"556690713910-9diaovpm7l6pbp5ofvdrvru6634qo5mv.apps.googleusercontent.com"</string>
+    <string name="already_have_an_account">already have an Account ?</string>
+    <string name="login_screen">Login Screen</string>
+</resources>
